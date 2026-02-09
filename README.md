@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=annisa-ugm&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<!--
-**annisa-ugm/annisa-ugm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="header.png" alt="Header" />
+</div>
 
-Here are some ideas to get you started:
+- 💻 See my website! <a href="https://annisa-portfolio.vercel.app/">https://annisa-portfolio.vercel.app/</a>
+- 🌱 I’m currently studying for 6th semester :)
+- 📫 How to reach me: **annisamutiarahman@gmail.com**
+- ⚡ Fun facts: I love cats and americano!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annisa-ugm&theme=react" alt="annisa-ugm" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=annisa-ugm&show_icons=true&locale=en&theme=react" alt="annisa-ugm" style="display:inline-block;"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annisa-ugm&layout=compact&theme=react" alt="annisa-ugm" />
+</div>
